@@ -83,4 +83,3 @@ This repository does **not** contain production configuration, credentials, priv
 ---
 
 <div align="center"><sub>Created by Fábio Reis · EvolvingAtlas is an independently developed product.</sub></div>
-# evolvingatlas-showcase
